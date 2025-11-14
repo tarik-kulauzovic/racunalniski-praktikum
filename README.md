@@ -5,3 +5,6 @@
 + Prilepi vsebino odložišča: Ctrl+V
 
 Druga domača naloga.
+
+Povezava do spletne strani
+https://tarik-kulauzovic.github.io/
